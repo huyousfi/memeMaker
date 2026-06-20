@@ -732,3 +732,12 @@
   background: #ef4444;
   transform: scale(1.1);
 }
+
+.footer {
+  background-color: #1a1a1a;
+  border-top: 1px solid #333;
+  padding: 12px;
+  text-align: center;
+  font-size: 0.75rem;
+  color: #888;
+}

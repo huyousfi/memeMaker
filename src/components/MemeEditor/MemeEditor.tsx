@@ -223,7 +223,7 @@ export default function MemeEditor() {
       <header className={styles.header}>
         <div className={styles.brand}>
           <Flame className={styles.brandIcon} size={28} />
-          <span className={styles.brandText}>MEMEIFY</span>
+          <span className={styles.brandText}>MEMEIFY By HussainSoft</span>
         </div>
 
         <div className={styles.headerActions}>
@@ -473,6 +473,9 @@ export default function MemeEditor() {
           />
         )}
       </div>
+      <footer className={styles.footer}>
+  <span>&copy; 2026 Hussain Soft. All rights reserved.</span>
+</footer>
     </div>
   );
 }
