@@ -117,7 +117,7 @@ export function useMemeCanvas() {
       rotation: 0,
       opacity: 1,
       text: initialText,
-      fontSize: 8, // percentage of canvas height
+      fontSize: 3, // percentage of canvas height
       color: '#ffffff',
       strokeColor: '#000000',
       strokeWidth: 4,
@@ -199,7 +199,7 @@ export function useMemeCanvas() {
         rotation: 0,
         opacity: 1,
         text: 'TOP TEXT',
-        fontSize: 8,
+        fontSize: 4,
         color: '#ffffff',
         strokeColor: '#000000',
         strokeWidth: 4,
@@ -219,7 +219,7 @@ export function useMemeCanvas() {
         rotation: 0,
         opacity: 1,
         text: 'BOTTOM TEXT',
-        fontSize: 8,
+        fontSize: 4,
         color: '#ffffff',
         strokeColor: '#000000',
         strokeWidth: 4,
