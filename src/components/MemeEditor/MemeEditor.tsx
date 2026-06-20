@@ -474,7 +474,7 @@ export default function MemeEditor() {
         )}
       </div>
       <footer className={styles.footer}>
-  <span>&copy; 2026 Hussain Soft. All rights reserved.</span>
+  <span>&#60; &copy; 2026 Hussain Soft. All rights reserved.&#60;</span>
 </footer>
     </div>
   );
